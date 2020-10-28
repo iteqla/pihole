@@ -1,6 +1,6 @@
 ############## Samsung ##############
 
-*sn-cu-aigs7.googlevideo.com
+sn-cu-aigs7.googlevideo.com
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 Coordinator-TA30-PROD-1091987395.eu-west-1.elb.amazonaws.com
 abtauthprd.samsungcloudsolution.com
@@ -45,7 +45,7 @@ gld.samsungosp.com
 go.microsoft.com
 googleads.g.doubleclick.net
 gpm.samsungqbe.com
-heads*-ak.spotify.com.edgesuite.net
+heads-ak.spotify.com.edgesuite.net
 i-stream.pl
 ichnaea.netflix.com
 infolink.pavv.co.kr
