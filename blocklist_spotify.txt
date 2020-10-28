@@ -1,5 +1,5 @@
-############## Spotify ##############
-### Whitelist = spclient.wg.spotify.com
+# ############# Spotify ##############
+# Whitelist = spclient.wg.spotify.com
 
 a50.g2.akamai.net
 a297.c.akamai.net
