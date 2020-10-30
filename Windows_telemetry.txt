@@ -246,7 +246,6 @@ co4.telecommand.telemetry.microsoft.com
 co4.telecommand.telemetry.microsoft.com.akadns.net
 compatexchange.cloudapp.net
 compatexchange1.trafficmanager.net
-continuum.dds.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 crl.microsoft.com
@@ -270,7 +269,6 @@ df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
 directory.services.live.com
 dlassets-ssl.xboxlive.com
-dns.msftncsi.com
 docs.watson.microsoft.com
 download.windowsupdate.com
 e2835.dspb.akamaiedge.net
@@ -291,7 +289,6 @@ eu.vortex.data.microsoft.com
 events.data.microsoft.com
 evoke-windowsservices-tas.msedge.net
 fe2.update.microsoft.com.akadns.net
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
@@ -423,7 +420,6 @@ mobile.pipe.aria.microsoft.com
 modern.watson.data.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
 msedge.net
-msftncsi.com
 msnbot-207-46-194-33.search.msn.com
 msnbot-65-52-108-33.search.msn.comments
 msnbot-65-55-108-23.search.msn.com
@@ -457,7 +453,6 @@ reports.wes.df.telemetry.microsoft.com
 ris.api.iris.microsoft.com
 rule-ppe.watson.microsoft.com
 rule.watson.microsoft.com
-s.gateway.messenger.live.com
 s0.2mdn.net
 sO.2mdn.net
 schemas.microsoft.akadns.net
@@ -479,7 +474,6 @@ siweb.microsoft.akadns.net
 skyapi.live.net
 skydrive.wns.windows.com
 sls.update.microsoft.com
-sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
