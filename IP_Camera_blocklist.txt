@@ -10,6 +10,6 @@
 # s2.eye4.cn
 # user2.ipcam.so
 
-*.eye4.cn
-*.ipcam.so
+.eye4.cn$
+.ipcam.so$
 www.baidu.com
