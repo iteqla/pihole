@@ -5,11 +5,8 @@
 #------------------------------------------------------------#
 
 
-# authentication.eye4.cn
-# push.eye4.cn
-# s2.eye4.cn
-# user2.ipcam.so
-
-.eye4.cn$
-.ipcam.so$
+authentication.eye4.cn
+push.eye4.cn
+s2.eye4.cn
+user2.ipcam.so
 www.baidu.com
