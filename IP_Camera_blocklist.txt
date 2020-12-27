@@ -8,5 +8,7 @@
 authentication.eye4.cn
 push.eye4.cn
 s2.eye4.cn
+s3.vstarcam.com
 user2.ipcam.so
 www.baidu.com
+www.zzzsoft.com
