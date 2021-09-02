@@ -1,4 +1,4 @@
-# ############# Spotify ##############
+# ############# Completely blocks Spotify ##############
 # Whitelist = spclient.wg.spotify.com
 # Whitelist = open.spotify.com
 
