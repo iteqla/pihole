@@ -78,7 +78,6 @@ otnprd9.samsungcloudsolution.net
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
 pipeaota.com
-pool.ntp.org
 prderrordumphsm.samsungcloudsolution.com
 premium-videos.telly.com
 prod-kami.wuaki.tv
