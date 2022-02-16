@@ -1,6 +1,4 @@
 # ############# Completely blocks Spotify ##############
-# Whitelist = spclient.wg.spotify.com
-# Whitelist = open.spotify.com
 
 a50.g2.akamai.net
 a297.c.akamai.net
